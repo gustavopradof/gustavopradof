@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A237E,100:009688&height=200&section=header&text=Gustavo%20do%20Prado&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engenheiro%20de%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20Industrial&descAlignY=58&descSize=18" width="100%" alt="Gustavo do Prado">
+<h1 align="center">Gustavo do Prado</h1>
+<p align="center"><b>Engenheiro de Computação · Full Stack &amp; Mobile · Automação Industrial</b></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=009688&center=true&vCenter=true&width=640&lines=Do+programa+do+CLP+ao+aplicativo+no+celular;Backends+em+Python+%2F+Django;Apps+em+Flutter+e+IHMs+em+Linux+embarcado;Supervis%C3%B3rios%2C+Modbus+e+MQTT" alt="Áreas de atuação"></a>
@@ -6,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavopradof"><img src="https://img.shields.io/badge/LinkedIn-gustavopradof-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gustavo@therapeut.com.br"><img src="https://img.shields.io/badge/E--mail-gustavo%40therapeut.com.br-1A237E?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:gustavo@teiabit.com.br"><img src="https://img.shields.io/badge/E--mail-gustavo%40teiabit.com.br-1A237E?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
   <img src="https://komarev.com/ghpvc/?username=gustavopradof&style=for-the-badge&color=009688&label=Visitas" alt="Visitas ao perfil">
 </p>
 
@@ -105,8 +106,8 @@ Construo soluções completas, do backend ao celular: APIs em Python e Django, a
 ## Métricas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavopradof&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DB6AC&icon_color=4DB6AC&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopradof&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DB6AC&locale=pt-br" alt="Linguagens mais usadas">
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=gustavopradof&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DB6AC&icon_color=4DB6AC&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=gustavopradof&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DB6AC&locale=pt-br" alt="Linguagens mais usadas">
 </p>
 
 <p align="center">
@@ -114,11 +115,7 @@ Construo soluções completas, do backend ao celular: APIs em Python e Django, a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavopradof&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4DB6AC&line=009688&point=ffffff&area=true&area_color=1A237E" width="100%" alt="Gráfico de atividade">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavopradof&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus">
+  <img src="https://ghchart.rshah.org/009688/gustavopradof" width="100%" alt="Calendário de contribuições">
 </p>
 
 ## Contato
@@ -127,8 +124,6 @@ Tem um projeto de automação, aplicativo ou sistema para conversar? Fale comigo
 
 <p>
   <a href="https://www.linkedin.com/in/gustavopradof"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gustavo@therapeut.com.br"><img src="https://img.shields.io/badge/gustavo%40therapeut.com.br-1A237E?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:gustavo@teiabit.com.br"><img src="https://img.shields.io/badge/gustavo%40teiabit.com.br-1A237E?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
   <a href="https://github.com/gustavopradof?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:1A237E&height=120&section=footer" width="100%" alt="">
