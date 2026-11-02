@@ -106,8 +106,11 @@ Construo soluções completas, do backend ao celular: APIs em Python e Django, a
 ## Métricas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=gustavopradof&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DB6AC&icon_color=4DB6AC&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=gustavopradof&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DB6AC&locale=pt-br" alt="Linguagens mais usadas">
+  <img src="https://img.shields.io/github/followers/gustavopradof?style=for-the-badge&logo=github&logoColor=white&color=1A237E&label=Seguidores" alt="Seguidores">
+  <img src="https://img.shields.io/github/stars/gustavopradof?style=for-the-badge&logo=github&logoColor=white&color=1A237E&label=Estrelas" alt="Estrelas">
+  <img src="https://badges.pufler.dev/repos/gustavopradof?style=for-the-badge&color=009688&logo=github&logoColor=white&label=Reposit%C3%B3rios" alt="Repositórios">
+  <img src="https://badges.pufler.dev/commits/all/gustavopradof?style=for-the-badge&color=009688&logo=git&logoColor=white&label=Commits" alt="Commits">
+  <img src="https://badges.pufler.dev/years/gustavopradof?style=for-the-badge&color=009688&logo=github&logoColor=white&label=Anos%20no%20GitHub" alt="Anos no GitHub">
 </p>
 
 <p align="center">
