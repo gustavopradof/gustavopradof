@@ -1,72 +1,134 @@
-### Olá, eu sou Gustavo do Prado! 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A237E,100:009688&height=200&section=header&text=Gustavo%20do%20Prado&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engenheiro%20de%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20Industrial&descAlignY=58&descSize=18" width="100%" alt="Gustavo do Prado">
 
-Sou **Engenheiro de Computação** e Desenvolvedor **Full Stack & Mobile**.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=009688&center=true&vCenter=true&width=640&lines=Do+programa+do+CLP+ao+aplicativo+no+celular;Backends+em+Python+%2F+Django;Apps+em+Flutter+e+IHMs+em+Linux+embarcado;Supervis%C3%B3rios%2C+Modbus+e+MQTT" alt="Áreas de atuação"></a>
+</p>
 
-Meu foco é construir soluções digitais completas e escaláveis. Tenho expertise em todo o ciclo de desenvolvimento de software: desde a arquitetura de backends robustos e APIs RESTful até a criação de interfaces móveis fluidas e responsivas.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavopradof"><img src="https://img.shields.io/badge/LinkedIn-gustavopradof-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gustavo@therapeut.com.br"><img src="https://img.shields.io/badge/E--mail-gustavo%40therapeut.com.br-1A237E?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
+  <img src="https://komarev.com/ghpvc/?username=gustavopradof&style=for-the-badge&color=009688&label=Visitas" alt="Visitas ao perfil">
+</p>
 
----
+## Sobre mim
 
-### 💻 Tech Stack
+Sou Engenheiro de Computação e desenvolvedor Full Stack e Mobile, e trabalho no ponto em que o software encontra a máquina.
 
-**Frontend & Mobile**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
+Construo soluções completas, do backend ao celular: APIs em Python e Django, aplicativos em Flutter, interfaces para Linux embarcado e a camada de automação que conversa com CLPs, sensores e inversores por Modbus e MQTT. Prefiro projetos em que o dado sai do chão de fábrica e chega, organizado, na tela de quem decide.
 
-**Backend & Integração**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+- **Automação industrial:** programação de CLPs, IHMs, supervisórios e comunicação entre máquinas.
+- **Aplicativos e interfaces:** Flutter para Android, iOS e Linux embarcado; Qt e C++ quando o caso pede.
+- **Backend:** Python, Django, APIs REST e integração com balanças, ERPs e equipamentos de campo.
+- **Embarcados e IIoT:** ESP32, telemetria, acesso remoto e painéis de monitoramento.
+- **Atuação:** em todo o Brasil, no local ou à distância.
 
-**Automação Industrial**
-![PLC](https://img.shields.io/badge/-PLC_Programming-blue?style=flat)
-![Modbus](https://img.shields.io/badge/-Modbus_TCP%2FRTU-orange?style=flat)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+## Áreas de atuação
 
-**DevOps & Infra**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Automação e controle</h3>
+      <p>Programas de CLP escritos de forma organizada e documentada, telas de operação pensadas para quem usa a máquina e supervisórios que reúnem a planta inteira em uma tela, com histórico e alarmes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Interfaces em Linux embarcado</h3>
+      <p>IHMs desenvolvidas em Flutter e Qt sobre Linux embarcado, com comunicação direta com o CLP via Modbus, banco de dados local, integração com periféricos e atualização à distância.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Sistemas de gestão e integração</h3>
+      <p>Aplicações web em Django para operações industriais e agroindustriais: fluxo de cargas, controle de qualidade, rastreabilidade e painéis de indicadores integrados a balanças, equipamentos e ERPs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Monitoramento remoto e IIoT</h3>
+      <p>Telemetria de equipamentos distribuídos por MQTT, servidores com acesso remoto seguro, aplicativos móveis e alertas no celular para quem precisa saber na hora.</p>
+    </td>
+  </tr>
+</table>
 
----
+## Tecnologias
 
-### 🚀 Projetos em Destaque
+<table>
+  <tr>
+    <td><b>Frontend e Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+      <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend e Integração</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" alt="REST APIs">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Automação Industrial</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CLP%20%2F%20PLC-1A237E?style=flat-square" alt="Programação de CLP">
+      <img src="https://img.shields.io/badge/IHM%20%2F%20HMI-1A237E?style=flat-square" alt="IHM">
+      <img src="https://img.shields.io/badge/Supervis%C3%B3rio%20%2F%20SCADA-1A237E?style=flat-square" alt="Supervisório">
+      <img src="https://img.shields.io/badge/Modbus%20TCP%2FRTU-E65100?style=flat-square" alt="Modbus">
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
+      <img src="https://img.shields.io/badge/OPC%20UA-455A64?style=flat-square" alt="OPC UA">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Embarcados e IIoT</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+      <img src="https://img.shields.io/badge/Linux%20Embarcado-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux embarcado">
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps e Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/VPS%20%2F%20Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="VPS e Nginx">
+    </td>
+  </tr>
+</table>
 
-🔹 **Gestão de Operações Agroindustriais (Django/Python)**
-Desenvolvimento de sistema Full Stack para orquestração logística e controle de qualidade.
-- **Funcionalidades:** Controle automatizado de fluxo de cargas (integração direta com balanças rodoviárias), workflows digitais de aprovação de qualidade e dashboards para monitoramento de KPIs de produtividade.
-- **Impacto:** Digitalização de processos manuais e garantia de rastreabilidade.
+## Métricas
 
-🔹 **Sistema Embarcado de Torrefação (Flutter/Linux)**
-Interface Homem-Máquina (IHM) de alta performance desenvolvida em Flutter rodando sobre Linux Embarcado.
-- **Tech:** Comunicação industrial via protocolo **Modbus** para leitura de sensores e atuação em tempo real.
-- **Destaque:** Renderização de curvas de torra complexas e controle PID com interface fluida e responsiva.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavopradof&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DB6AC&icon_color=4DB6AC&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopradof&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DB6AC&locale=pt-br" alt="Linguagens mais usadas">
+</p>
 
-🔹 **Ecossistema IIoT Multiplataforma**
-Solução de convergência OT/IT integrando automação física com supervisão digital.
-- **Arquitetura:** Programação de CLPs interligados via **MQTT** a uma plataforma Web central e aplicativos móveis nativos (Android/iOS).
-- **Objetivo:** Telemetria remota, controle de acionamentos e análise de dados distribuída.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavopradof&theme=tokyonight&hide_border=true&background=0D1117&ring=4DB6AC&fire=009688&currStreakLabel=4DB6AC&locale=pt_BR" alt="Sequência de commits">
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavopradof&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4DB6AC&line=009688&point=ffffff&area=true&area_color=1A237E" width="100%" alt="Gráfico de atividade">
+</p>
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavopradof&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus">
+</p>
 
-<div align="center">
-  <a href="https://github.com/gustavopradof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopradof&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopradof&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</div>
+## Contato
 
----
+Tem um projeto de automação, aplicativo ou sistema para conversar? Fale comigo pelo LinkedIn ou por e-mail.
 
-### 📫 Contato
+<p>
+  <a href="https://www.linkedin.com/in/gustavopradof"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gustavo@therapeut.com.br"><img src="https://img.shields.io/badge/gustavo%40therapeut.com.br-1A237E?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
+  <a href="https://github.com/gustavopradof?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"></a>
+</p>
 
-<div> 
-  <a href="https://www.linkedin.com/in/gustavopradof" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:gd.prado1985@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:1A237E&height=120&section=footer" width="100%" alt="">
